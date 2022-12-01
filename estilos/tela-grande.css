@@ -22,9 +22,9 @@
     }
 
     input {
-        width: 22vw;
         margin-top: 10px;
-    }
+        width: 22vw;
+     }
 
     input.acesso {
         width: 20vw;
