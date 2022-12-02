@@ -22,9 +22,15 @@
     }
 
     input {
+<<<<<<< HEAD
         width: 22vw;
         margin: 5px 0px 5px 0px;
     }
+=======
+        margin-top: 10px;
+        width: 22vw;
+     }
+>>>>>>> b102c10517306931a4094f29520cf42fe5f773ab
 
     input.acesso {
         width: 20vw;
